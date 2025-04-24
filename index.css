@@ -115,12 +115,13 @@ p{
     width: 100%;
     padding: 2rem;
     border-radius: 5px;
+    block-size: 100%;
 }
 
 .content-con{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 2rem;    
+    column-gap: 2rem;   
 }
 
 .content-titie{
@@ -152,7 +153,8 @@ p{
 }
 img{
     border-radius: 20px;
-    block-size: 100%;
+    block-size: 60%;
+    
 }
 a{
     text-decoration: none;
