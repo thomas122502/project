@@ -115,7 +115,6 @@ p{
     width: 100%;
     padding: 2rem;
     border-radius: 5px;
-    block-size: 100%;
 }
 
 .content-con{
@@ -153,7 +152,7 @@ p{
 }
 img{
     border-radius: 20px;
-    block-size: 60%;
+    block-size: 100%;
 }
 a{
     text-decoration: none;
